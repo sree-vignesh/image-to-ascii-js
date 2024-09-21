@@ -1,0 +1,18 @@
+{
+  "name": "js-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node convert.js",
+    "displayall": "node displayAll.js"
+  },
+  "keywords": [],
+  "author": "sree-vignesh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "image-js": "^0.35.6",
+    "image-to-ascii": "^3.2.0"
+  }
+}
