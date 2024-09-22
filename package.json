@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "convert": "node convert.js",
-    "displayall": "node displayAll.js"
+    "displayall": "node displayAll.js",
+    "show": "node show.js"
   },
   "keywords": [],
   "author": "sree-vignesh",
