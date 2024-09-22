@@ -5,8 +5,10 @@ function printAscii(file) {
     {
       colored: true,
       reverse: true,
-      // pixels: " ▅",
-      pixels: "  ■■■■■",
+      // pixels: " .......",
+      // pixels: " ████",
+
+      pixels: "  ■■■■■■■■",
     },
     (err, converted) => {
       console.log(err || converted);
