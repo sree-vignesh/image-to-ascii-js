@@ -1,11 +1,15 @@
 # Image to ASCII Converter
 
-This project converts images into an ASCII-friendly format and displays them in the terminal. It utilizes the power of the `image-js` and `image-to-ascii` libraries to achieve high-quality ASCII art representations of your images.
+This project converts images into an ASCII-friendly format and displays them in the terminal. It utilizes `image-js` and `image-to-ascii` libraries to show ASCII art representations of your images.
 
 ## Credits
 
-- **image-js**: A versatile library for image manipulation.
-- **image-to-ascii**: A simple library for converting images to ASCII art.
+- **image-js**
+- **image-to-ascii**
+
+## To Do
+
+   1. An script to show a custom ascii art everytime a new terminal is opened.
 
 ## Getting Started
 
